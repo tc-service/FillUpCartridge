@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">rechargeCartridge</string>
+    <string name="HP">catalog</string>
+    <string name="Canon">catalog</string>
+    <string name="Kyocera">catalog</string>
+</resources>
