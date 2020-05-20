@@ -1,0 +1,36 @@
+[
+  { "model":	" Laser 107/135",
+    "Cartridge":	"Т-к W1106A (1k)   ",
+    "toner":	"Рекомендуемый тип тонера: Samsung Universal Допустимый: HP Unniversal Вес:60 г."},
+
+  { "model":	  " LJ 1010/L100 /Canon FX-10/703",
+    "Cartridge":	"Т-к Q2612A (2k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 1200 Допустимый: HP Unniversal Вес:120 г."},
+
+  { "model":	 " LJ 1100/Canon EP-22",
+    "Cartridge":	"Т-к C4092A (2,5k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 120 Допустимый: HP Unniversal Вес:140 г."},
+
+  { "model":	 " LJ 1300/1150/1200/C7115A/Canon EP-25 Univ ",
+    "Cartridge":	"Т-к Q2613/24A (2,5k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 1200 Допустимый: HP Unniversal Вес:140 г."},
+
+  { "model":	 " LJ 1320/P2015 /Canon 708/715 Univ   ",
+    "Cartridge":	"Т-к Q5949A/Q7553A (3k)/ Q5949X/Q7553X (6k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 1200/1320 Допустимый: HP Unniversal Вес: 160 г./ 300 г. "},
+
+  { "model":	 " LJ 2100 ",
+    "Cartridge":	"Т-к C4096A (5k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 2100 Допустимый: HP Unniversal Вес:220 г."},
+  { "model":	 " LJ 2300   ",
+    "Cartridge":	"Т-к Q2610A (6k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 2100 Допустимый: HP Unniversal Вес:280 г."},
+
+  { "model":	 " LJ 2420 /Canon 710L ",
+    "Cartridge":	"Т-к Q6511A (6k)/Q6511X (12k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 2410 Допустимый: HP Unniversal Вес:280 г./ 560 г."},
+
+  { "model":	 " LJ 4000/4050    ",
+    "Cartridge":	"Т-к C4127X (10k)",
+    "toner":	"Рекомендуемый тип тонера:HP LJ 2100 Допустимый: HP Unniversal Вес:380 г."}
+]
